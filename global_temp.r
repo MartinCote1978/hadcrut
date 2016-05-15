@@ -1,3 +1,5 @@
+## See http://www.r-bloggers.com/global-temperature-change-in-r-d3-without-the-vertigo/
+
 library(readr)    # read_table() / write_csv()
 library(dplyr)
 library(zoo)      # as.yearmon()
